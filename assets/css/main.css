@@ -679,7 +679,7 @@ nav.navbar.bootsnav.navbar-fixed .button-holder {
   text-align: center;
   color: #D7DBDD;
   padding-top: 10px;
-  padding-bottom: 70px;
+  padding-bottom: 10px;
 }
 
 .supplier_icon {
@@ -920,6 +920,12 @@ nav.navbar.bootsnav.navbar-fixed .button-holder {
   margin-left: 20px;
 }
 
+.pricing {
+  text-align: center;
+  margin-bottom: 60px;
+  color: blue;
+}
+
 #buyers_solution {
   padding-bottom: 100px;
 
@@ -943,7 +949,7 @@ nav.navbar.bootsnav.navbar-fixed .button-holder {
   text-align: center;
   color: blue;
   padding-top: 10px;
-  padding-bottom: 70px;
+  padding-bottom: 10px;
 }
 
 .why_catalog {
@@ -1129,7 +1135,12 @@ font: 36px Arial, sans-serif;
   color: blue;
   font-size: 18px;
   padding-top: 10px;
-  padding-bottom: 70px;
+  padding-bottom: 10px;
+}
+
+.pricing {
+  text-align: center;
+  margin-bottom: 60px;
 }
 
 .suppliers_solution_heading {
@@ -1145,7 +1156,7 @@ font: 36px Arial, sans-serif;
   font-size: 18px;
   font-size: 1.4rem;
   padding-top: 10px;
-  padding-bottom: 70px;
+  padding-bottom: 10px;
 }
 
 .supplier_box1 {
