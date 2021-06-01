@@ -1001,6 +1001,18 @@ nav.navbar.bootsnav.navbar-fixed .button-holder {
   margin-left: 30px;
   margin-bottom: 20px;
 }
+
+.offer_image {
+  width: 750px;
+  border-radius: 10px;
+  height: 180px;
+  text-align: center;
+}
+
+.offer {
+  text-align: center;
+  margin-bottom: 30px;
+}
 /*========================================
            Footer
 ========================================*/
@@ -1184,6 +1196,19 @@ font: 36px Arial, sans-serif;
   padding: 20px;
   text-align: center;
   color: #fff; }
+
+
+  .offer_image {
+    width: 100%;
+    border-radius: 5px;
+    height: 90px;
+    text-align: center;
+  }
+
+  .offer {
+    text-align: center;
+    margin-bottom: 30px;
+  }
 
 .why_catalog_img {
   width: 250px;
