@@ -665,19 +665,20 @@ nav.navbar.bootsnav.navbar-fixed .button-holder {
            Features
 ========================================*/
 #supplier_solutions {
-  background: blue;
+  background: #FDFEFE;
   padding-bottom: 100px;
+  font-family: Times;
 }
 
 .suppliers_solution_heading {
   text-align: center;
-  color: white;
+  color: red;
   padding-top: 20px;
 }
 
 .suppliers_solution_subheading {
   text-align: center;
-  color: #D7DBDD;
+  color: #212F3D;
   padding-top: 10px;
   padding-bottom: 10px;
 }
@@ -996,7 +997,7 @@ nav.navbar.bootsnav.navbar-fixed .button-holder {
 }
 
 .supplier_solution_under_heading_paragraph {
-  color: #fff;
+  color: #212F3D;
   margin-top: 20px;
   margin-left: 30px;
   margin-bottom: 20px;
@@ -1157,14 +1158,14 @@ font: 36px Arial, sans-serif;
 
 .suppliers_solution_heading {
   text-align: center;
-  color: white;
+  color: red;
   font-size: 23px;
   padding-top: 20px;
 }
 
 .suppliers_solution_subheading {
   text-align: center;
-  color: #D7DBDD;
+  color: #212F3D;
   font-size: 18px;
   font-size: 1.4rem;
   padding-top: 10px;
